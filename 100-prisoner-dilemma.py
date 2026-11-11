@@ -1,6 +1,6 @@
 """
 @name: 100-prisoner-dilemma.py
-@author: BeeEffGH
+@author: oh-em-bee
 @date: April 8th, 2023
 
 REQUIREMENT:
